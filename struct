@@ -1,0 +1,9 @@
+stuct data_mahasiswa
+{
+ 
+   long int nim;
+   char nama[100];
+   char fakultas[100];
+};
+ 
+data_mahasiswa mahasiswa1, mahasiswa2;
